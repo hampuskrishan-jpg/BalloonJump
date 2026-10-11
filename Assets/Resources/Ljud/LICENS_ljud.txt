@@ -1,0 +1,21 @@
+ballong_pang.ogg
+"Balloon: burst" (ljud nr 0551) av Joseph SARDIN, BigSoundBank / LaSonothèque
+https://bigsoundbank.com/balloon-burst-s0551.html
+Licens: CC0 (public domain) – fritt att använda, även kommersiellt.
+
+Röster och kroppsljud (alla CC0 / public domain):
+skrik_fall1.mp3 <- Freesound - man screaming.mp3 by mediagruppen | https://freesound.org/people/mediagruppen/sounds/652470/ | CC0
+skrik_fall2.mp3 <- Freesound - Sissy guy falling down of building by riippumattog | https://freesound.org/people/riippumattog/sounds/856147/ | CC0
+flamtning.mp3 <- Freesound - Male Gasp 1.wav by jawbutch | https://freesound.org/people/jawbutch/sounds/344407/ | CC0
+ston.mp3 <- Freesound - groan by adam.wav by seachangeau | https://freesound.org/people/seachangeau/sounds/387153/ | CC0
+duns_mark.mp3 <- Freesound - BODY FALL - V HVY - DIRT by leonelmail | https://freesound.org/people/leonelmail/sounds/504626/ | CC0
+duns_tra.wav (klippt) <- Freesound - Run &amp; Fall - Wooden surface by Vrymaa | https://freesound.org/people/Vrymaa/sounds/810885/ | CC0
+aj.mp3 <- Cry of Pain (nr 2361) av Dorian CLAIR, BigSoundBank | https://bigsoundbank.com/cry-of-pain-s2361.html | CC0
+flamtar.wav (klippt) <- Breathless Man (nr 1103) av Joseph SARDIN, BigSoundBank | https://bigsoundbank.com/breathless-man-s1103.html | CC0
+lattnad.wav (klippt) <- Freesound - AS076583_Relief.flac by SuddenDice | https://freesound.org/people/SuddenDice/sounds/558655/ | CC0
+jubel_yes.mp3 <- Freesound - Joyful - Yes 6 by Sadiquecat | https://freesound.org/people/Sadiquecat/sounds/801298/ | CC0
+jubel_yeah.mp3 <- Freesound - ~Yeah! by bogenseeberg | https://freesound.org/people/bogenseeberg/sounds/475444/ | CC0
+suck.mp3 <- Sigh by the Mouth (nr 1405) av Joseph SARDIN, BigSoundBank | https://bigsoundbank.com/sigh-by-the-mouth-s1405.html | CC0
+hopp1.mp3 <- Freesound - jump_grunt_01 by arther1974 | https://freesound.org/people/arther1974/sounds/808213/ | CC0
+hopp2.mp3 <- Freesound - jump_grunt_02 by arther1974 | https://freesound.org/people/arther1974/sounds/808215/ | CC0
+hopp3.mp3 <- Freesound - jump_grunt_03 by arther1974 | https://freesound.org/people/arther1974/sounds/808216/ | CC0

@@ -1,0 +1,29 @@
+# Unity – genereras automatiskt, ska inte versionshanteras
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE-filer
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+
+# macOS
+.DS_Store
+
+# Fototexturerna byggs ihop automatiskt vid varje bygge (Ballongfallet > Bygg Mac-app)
+# och är större än GitHubs gräns på 100 MB
+/Assets/Resources/Fototexturer*.asset
+/Assets/Resources/Fototexturer*.asset.meta
